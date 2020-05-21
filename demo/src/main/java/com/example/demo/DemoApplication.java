@@ -17,7 +17,7 @@ public class DemoApplication {
 	
 	@RequestMapping("/")
 	String home() {
-	return "<h1>prova per il welcome</h1>";	
+	return "<h1>prova per il commit su master</h1>";	
 	}
 	
 	@RequestMapping("/write")
